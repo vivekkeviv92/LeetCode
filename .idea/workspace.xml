@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c2be5b8-0f5e-494a-a6c5-51e30b7a7b85" name="Default Changelist" comment="" />
+    <list default="true" id="7c2be5b8-0f5e-494a-a6c5-51e30b7a7b85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/util/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/coding/practice/AppTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +33,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1aaBmdq8ctRCjN7FkMugMbWoEC5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,8 +41,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/coding/practice/util" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="LeetCode_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -62,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586963984610</updated>
-      <workItem from="1586963987425" duration="515000" />
+      <workItem from="1586963987425" duration="1786000" />
     </task>
     <servers />
   </component>
@@ -70,22 +89,30 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1440" height="218" key="GridCell.Tab.0.bottom" timestamp="1586964505176">
+    <state x="533" y="112" key="#com.intellij.ide.util.MemberChooser" timestamp="1586965533678">
       <screen x="0" y="0" width="1440" height="842" />
     </state>
-    <state width="1440" height="218" key="GridCell.Tab.0.bottom/0.0.1440.842@0.0.1440.842" timestamp="1586964505176" />
-    <state width="1440" height="218" key="GridCell.Tab.0.center" timestamp="1586964505175">
+    <state x="533" y="112" key="#com.intellij.ide.util.MemberChooser/0.0.1440.842@0.0.1440.842" timestamp="1586965533678" />
+    <state x="531" y="291" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1586965593289">
       <screen x="0" y="0" width="1440" height="842" />
     </state>
-    <state width="1440" height="218" key="GridCell.Tab.0.center/0.0.1440.842@0.0.1440.842" timestamp="1586964505175" />
-    <state width="1440" height="218" key="GridCell.Tab.0.left" timestamp="1586964505175">
+    <state x="531" y="291" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1440.842@0.0.1440.842" timestamp="1586965593289" />
+    <state width="1440" height="218" key="GridCell.Tab.0.bottom" timestamp="1586964758313">
       <screen x="0" y="0" width="1440" height="842" />
     </state>
-    <state width="1440" height="218" key="GridCell.Tab.0.left/0.0.1440.842@0.0.1440.842" timestamp="1586964505175" />
-    <state width="1440" height="218" key="GridCell.Tab.0.right" timestamp="1586964505175">
+    <state width="1440" height="218" key="GridCell.Tab.0.bottom/0.0.1440.842@0.0.1440.842" timestamp="1586964758313" />
+    <state width="1440" height="218" key="GridCell.Tab.0.center" timestamp="1586964758312">
       <screen x="0" y="0" width="1440" height="842" />
     </state>
-    <state width="1440" height="218" key="GridCell.Tab.0.right/0.0.1440.842@0.0.1440.842" timestamp="1586964505175" />
+    <state width="1440" height="218" key="GridCell.Tab.0.center/0.0.1440.842@0.0.1440.842" timestamp="1586964758312" />
+    <state width="1440" height="218" key="GridCell.Tab.0.left" timestamp="1586964758312">
+      <screen x="0" y="0" width="1440" height="842" />
+    </state>
+    <state width="1440" height="218" key="GridCell.Tab.0.left/0.0.1440.842@0.0.1440.842" timestamp="1586964758312" />
+    <state width="1440" height="218" key="GridCell.Tab.0.right" timestamp="1586964758313">
+      <screen x="0" y="0" width="1440" height="842" />
+    </state>
+    <state width="1440" height="218" key="GridCell.Tab.0.right/0.0.1440.842@0.0.1440.842" timestamp="1586964758313" />
     <state x="397" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1586963988545">
       <screen x="0" y="0" width="1440" height="842" />
     </state>
