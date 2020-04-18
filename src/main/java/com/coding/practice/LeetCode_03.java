@@ -1,10 +1,7 @@
 package com.coding.practice;
 
-import java.util.HashMap;
-import java.util.Map;
-
 /*
-SEVERITY Medium
+MEDIUM
 3. Longest Substring Without Repeating Characters
 
 Given a string, find the length of the longest substring without repeating characters.
@@ -26,6 +23,9 @@ Output: 3
 Explanation: The answer is "wke", with the length of 3.
              Note that the answer must be a substring, "pwke" is a subsequence and not a substring.
 */
+
+import java.util.HashMap;
+import java.util.Map;
 
 public class LeetCode_03 {
     public int lengthOfLongestSubstring(String s) {

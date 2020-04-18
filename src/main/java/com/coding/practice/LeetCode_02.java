@@ -1,9 +1,7 @@
 package com.coding.practice;
 
-import com.coding.practice.util.ListNode;
-
 /*
-SEVERITY Medium
+MEDIUM
 2. Add Two Numbers
 
 You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order
@@ -16,6 +14,8 @@ Example:
     Output: 7 -> 0 -> 8
     Explanation: 342 + 465 = 807.
 */
+
+import com.coding.practice.util.ListNode;
 
 public class LeetCode_02 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {

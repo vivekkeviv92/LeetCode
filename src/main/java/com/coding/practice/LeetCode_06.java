@@ -1,7 +1,7 @@
 package com.coding.practice;
 
 /*
-SEVERITY Medium
+MEDIUM
 TODO
 6. ZigZag Conversion
 

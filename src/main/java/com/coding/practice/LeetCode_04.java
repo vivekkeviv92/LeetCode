@@ -1,11 +1,7 @@
 package com.coding.practice;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-
 /*
-SEVERITY Hard
+HARD
 4. Median of Two Sorted Arrays
 
 There are two sorted arrays nums1 and nums2 of size m and n respectively.
@@ -26,7 +22,11 @@ nums1 = [1, 2]
 nums2 = [3, 4]
 
 The median is (2 + 3)/2 = 2.5
- */
+*/
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 public class LeetCode_04 {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {

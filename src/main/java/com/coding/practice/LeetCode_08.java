@@ -1,7 +1,7 @@
 package com.coding.practice;
 
 /*
-SEVERITY Medium
+MEDIUM
 8. String to Integer (atoi)
 
 Implement atoi which converts a string to an integer.
@@ -44,7 +44,7 @@ Example 5:
 Input: "-91283472332"
 Output: -2147483648
 Explanation: The number "-91283472332" is out of the range of a 32-bit signed integer.
-             Thefore INT_MIN (−231) is returned.
+             Therefore INT_MIN (−231) is returned.
 */
 
 public class LeetCode_08 {
@@ -70,7 +70,6 @@ public class LeetCode_08 {
                 }
                 sign = sign * -1;
             } else if (c == '+') {
-                //
                 if (i != 0) {
                     return (int) result * sign;
                 }
