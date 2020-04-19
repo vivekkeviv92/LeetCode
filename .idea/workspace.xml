@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c2be5b8-0f5e-494a-a6c5-51e30b7a7b85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_226.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/util/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_1192.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_1268.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_286.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_347.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_692.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_937.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_994.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_200.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_200.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
   </component>
   <component name="RecentsManager">
@@ -82,6 +89,9 @@
       <workItem from="1586963987425" duration="1930000" />
       <workItem from="1587197518119" duration="384000" />
       <workItem from="1587202471354" duration="5084000" />
+      <workItem from="1587284998905" duration="270000" />
+      <workItem from="1587301837783" duration="192000" />
+      <workItem from="1587305031628" duration="2150000" />
     </task>
     <servers />
   </component>
@@ -117,16 +127,16 @@
       <screen x="0" y="0" width="1440" height="842" />
     </state>
     <state width="1440" height="218" key="GridCell.Tab.0.right/0.0.1440.842@0.0.1440.842" timestamp="1586965923902" />
-    <state x="221" y="76" key="SettingsEditor" timestamp="1587209374320">
+    <state x="221" y="76" key="SettingsEditor" timestamp="1587309851104">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="71" key="SettingsEditor/0.0.1440.842@0.0.1440.842" timestamp="1587203245833" />
-    <state x="221" y="76" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1587209374320" />
-    <state x="397" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1587284999542">
+    <state x="221" y="76" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1587309851104" />
+    <state x="397" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1587306847552">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="397" y="253" key="com.intellij.ide.util.TipDialog/0.0.1440.842@0.0.1440.842" timestamp="1587202472836" />
-    <state x="397" y="270" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1587284999542" />
+    <state x="397" y="270" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1587306847552" />
     <state x="100" y="100" width="1240" height="700" key="dock-window-1" timestamp="1587208555884">
       <screen x="0" y="0" width="1440" height="842" />
     </state>
