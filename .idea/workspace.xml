@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c2be5b8-0f5e-494a-a6c5-51e30b7a7b85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_139.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_150.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_73.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_763.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_88.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_138.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/util/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +106,7 @@
       <workItem from="1587305031628" duration="2475000" />
       <workItem from="1587342963163" duration="974000" />
       <workItem from="1587357430118" duration="19000" />
-      <workItem from="1587386501510" duration="2666000" />
+      <workItem from="1587386501510" duration="6415000" />
     </task>
     <servers />
   </component>
