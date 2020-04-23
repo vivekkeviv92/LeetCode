@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c2be5b8-0f5e-494a-a6c5-51e30b7a7b85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_112.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_113.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_144.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_145.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_94.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_98.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_1295.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_384.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_448.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_485.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_487.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_705.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_977.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/util/Helper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +108,9 @@
       <workItem from="1587305031628" duration="2475000" />
       <workItem from="1587342963163" duration="974000" />
       <workItem from="1587357430118" duration="19000" />
-      <workItem from="1587386501510" duration="8409000" />
+      <workItem from="1587386501510" duration="8583000" />
+      <workItem from="1587551282009" duration="1074000" />
+      <workItem from="1587603302406" duration="490000" />
     </task>
     <servers />
   </component>
@@ -122,6 +126,10 @@
       <screen x="0" y="0" width="1440" height="842" />
     </state>
     <state x="533" y="112" key="#com.intellij.ide.util.MemberChooser/0.0.1440.842@0.0.1440.842" timestamp="1586965533678" />
+    <state x="486" y="316" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587552103967">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="486" y="316" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1587552103967" />
     <state x="531" y="291" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1586965593289">
       <screen x="0" y="0" width="1440" height="842" />
     </state>
@@ -146,16 +154,16 @@
     </state>
     <state width="1440" height="244" key="GridCell.Tab.0.right/0.0.1440.842@0.0.1440.842" timestamp="1587342711171" />
     <state width="1440" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587344204023" />
-    <state x="221" y="76" key="SettingsEditor" timestamp="1587440901452">
+    <state x="221" y="76" key="SettingsEditor" timestamp="1587551734951">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="71" key="SettingsEditor/0.0.1440.842@0.0.1440.842" timestamp="1587203245833" />
-    <state x="221" y="76" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1587440901452" />
-    <state x="397" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1587386501919">
+    <state x="221" y="76" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1587551734951" />
+    <state x="397" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1587603302519">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="397" y="253" key="com.intellij.ide.util.TipDialog/0.0.1440.842@0.0.1440.842" timestamp="1587343003368" />
-    <state x="397" y="270" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1587386501919" />
+    <state x="397" y="270" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1587603302519" />
     <state x="100" y="100" width="1240" height="700" key="dock-window-1" timestamp="1587208555884">
       <screen x="0" y="0" width="1440" height="842" />
     </state>
