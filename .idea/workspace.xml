@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c2be5b8-0f5e-494a-a6c5-51e30b7a7b85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_156.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_157.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_158.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_159.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/util/Reader4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_150.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_150.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_200.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_200.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_286.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_286.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_347.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_347.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_384.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_384.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_929.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_929.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_98.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_98.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="7c2be5b8-0f5e-494a-a6c5-51e30b7a7b85" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,11 +39,11 @@
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="LeetCode_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.coding.practice.LeetCode_01" />
+      <option name="MAIN_CLASS_NAME" value="com.coding.practice._0_99.LeetCode_01" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.coding.practice.*" />
+          <option name="PATTERN" value="com.coding.practice._0_99.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,7 +56,7 @@
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.coding.practice.*" />
+          <option name="PATTERN" value="com.coding.practice._0_99.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,7 +96,7 @@
       <workItem from="1587717787978" duration="1407000" />
       <workItem from="1588035181967" duration="1953000" />
       <workItem from="1588040405968" duration="1107000" />
-      <workItem from="1588042320403" duration="1805000" />
+      <workItem from="1588042320403" duration="1998000" />
     </task>
     <servers />
   </component>
@@ -157,11 +140,15 @@
     </state>
     <state width="1440" height="244" key="GridCell.Tab.0.right/0.0.1440.842@0.0.1440.842" timestamp="1587342711171" />
     <state width="1440" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587344204023" />
-    <state x="221" y="76" key="SettingsEditor" timestamp="1587610973913">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="221" y="71" key="SettingsEditor" timestamp="1588052781838">
+      <screen x="0" y="0" width="1440" height="842" />
     </state>
-    <state x="221" y="71" key="SettingsEditor/0.0.1440.842@0.0.1440.842" timestamp="1587203245833" />
+    <state x="221" y="71" key="SettingsEditor/0.0.1440.842@0.0.1440.842" timestamp="1588052781838" />
     <state x="221" y="76" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1587610973913" />
+    <state x="100" y="100" width="1240" height="642" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1588052782203">
+      <screen x="0" y="0" width="1440" height="842" />
+    </state>
+    <state x="100" y="100" width="1240" height="642" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.842@0.0.1440.842" timestamp="1588052782203" />
     <state x="397" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1588035182321">
       <screen x="0" y="0" width="1440" height="842" />
     </state>
