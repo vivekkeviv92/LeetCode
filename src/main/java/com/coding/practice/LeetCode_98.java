@@ -44,8 +44,7 @@ public class LeetCode_98 {
         if (upper != null && val >= upper) return false;
 
         if (!helper(node.right, val, upper)) return false;
-        if (!helper(node.left, lower, val)) return false;
-        return true;
+        return helper(node.left, lower, val);
     }
 
     public boolean isValidBST(TreeNode root) {

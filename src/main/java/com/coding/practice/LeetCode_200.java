@@ -51,10 +51,7 @@ public class LeetCode_200 {
         if (i < 0 || i >= rows || j < 0 || j >= cols) {
             return false;
         }
-        if (grid[i][j] == '0') {
-            return false;
-        }
-        return true;
+        return grid[i][j] != '0';
     }
 
     public void markIslands(int i, int j, int rows, int cols, char[][] grid) {

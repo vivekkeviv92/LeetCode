@@ -41,7 +41,7 @@ public class LeetCode_347 {
         }
 
         for (int i = 1; i <= k; i++) {
-            result.add((Integer) heap.remove().getKey());
+            result.add(heap.remove().getKey());
         }
         return result;
     }

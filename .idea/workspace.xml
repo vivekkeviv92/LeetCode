@@ -2,18 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c2be5b8-0f5e-494a-a6c5-51e30b7a7b85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_1021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_1064.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_1207.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_1332.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_153.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_198.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_402.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_678.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_703.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_830.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_92.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_156.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_157.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_158.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_159.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/util/Reader4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_150.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_150.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_200.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_200.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_286.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_286.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_347.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_347.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_384.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_384.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_929.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_929.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_98.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_98.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,18 +34,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectId" id="1aaBmdq8ctRCjN7FkMugMbWoEC5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -116,12 +111,14 @@
       <workItem from="1587603302406" duration="1722000" />
       <workItem from="1587615811750" duration="538000" />
       <workItem from="1587717787978" duration="1407000" />
-      <workItem from="1588035181967" duration="1026000" />
+      <workItem from="1588035181967" duration="1953000" />
+      <workItem from="1588040405968" duration="1107000" />
+      <workItem from="1588042320403" duration="1805000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="115" key="#TODO" timestamp="1587209496707">

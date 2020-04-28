@@ -37,10 +37,10 @@ public class LeetCode_286 {
     private static final int EMPTY = Integer.MAX_VALUE;
     private static final int GATE = 0;
     private static final List<int[]> DIRECTIONS = Arrays.asList(
-            new int[] { 1,  0},
-            new int[] {-1,  0},
-            new int[] { 0,  1},
-            new int[] { 0, -1}
+            new int[]{1, 0},
+            new int[]{-1, 0},
+            new int[]{0, 1},
+            new int[]{0, -1}
     );
 
     public void wallsAndGates(int[][] rooms) {
@@ -51,7 +51,7 @@ public class LeetCode_286 {
         for (int row = 0; row < m; row++) {
             for (int col = 0; col < n; col++) {
                 if (rooms[row][col] == GATE) {
-                    q.add(new int[] { row, col });
+                    q.add(new int[]{row, col});
                 }
             }
         }
@@ -66,7 +66,7 @@ public class LeetCode_286 {
                     continue;
                 }
                 rooms[r][c] = rooms[row][col] + 1;
-                q.add(new int[] { r, c });
+                q.add(new int[]{r, c});
             }
         }
     }

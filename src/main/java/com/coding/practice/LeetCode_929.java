@@ -58,7 +58,6 @@ public class LeetCode_929 {
 
     public String processLocalName(String localName) {
         StringBuffer result = new StringBuffer();
-        ;
         char[] array = localName.toCharArray();
         for (char c : array) {
             if (c == '.') {

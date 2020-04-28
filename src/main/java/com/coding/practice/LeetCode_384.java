@@ -62,7 +62,7 @@ public class LeetCode_384 {
     }
 
     // Function to shuffle an array A[]
-    private void shuffle(int A[]) {
+    private void shuffle(int[] A) {
         // read array from highest index to lowest
         for (int i = A.length - 1; i >= 1; i--) {
             // generate a random number j such that 0 <= j <= i

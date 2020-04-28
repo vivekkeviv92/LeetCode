@@ -38,17 +38,11 @@ import java.util.Stack;
 
 public class LeetCode_20 {
     public boolean isOpeningParentheses(char c) {
-        if (c == '{' || c == '[' || c == '(') {
-            return true;
-        }
-        return false;
+        return c == '{' || c == '[' || c == '(';
     }
 
     public boolean isClosingParentheses(char c) {
-        if (c == '}' || c == ']' || c == ')') {
-            return true;
-        }
-        return false;
+        return c == '}' || c == ']' || c == ')';
     }
 
     public boolean validate(char openP, char closeP) {
@@ -56,10 +50,7 @@ public class LeetCode_20 {
             return true;
         } else if (openP == '[' && closeP == ']') {
             return true;
-        } else if (openP == '(' && closeP == ')') {
-            return true;
-        }
-        return false;
+        } else return openP == '(' && closeP == ')';
     }
 
     public boolean isValid(String s) {
@@ -82,9 +73,6 @@ public class LeetCode_20 {
                 }
             }
         }
-        if (!stack.isEmpty()) {
-            return false;
-        }
-        return true;
+        return stack.isEmpty();
     }
 }

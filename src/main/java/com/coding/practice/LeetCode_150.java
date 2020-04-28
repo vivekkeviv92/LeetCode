@@ -39,7 +39,7 @@ Explanation:
 import java.util.Stack;
 
 public class LeetCode_150 {
-    private static String OPS = "+-*/";
+    private static final String OPS = "+-*/";
 
     public void checkToEval(Stack<String> stack) {
         if (stack.size() < 3) {
