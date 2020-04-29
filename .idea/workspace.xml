@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c2be5b8-0f5e-494a-a6c5-51e30b7a7b85" name="Default Changelist" comment="" />
+    <list default="true" id="7c2be5b8-0f5e-494a-a6c5-51e30b7a7b85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_100_199/LeetCode_146.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_100_199/LeetCode_170.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_100_199/LeetCode_186.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_200_299/LeetCode_243.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_200_299/LeetCode_244.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_30DayLeetCodeChallange/FirstUniqueNumberInDataStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/util/DLLNodeWithKeyVal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/util/NodeDLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/_100_199/LeetCode_138.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_100_199/LeetCode_138.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/_100_199/LeetCode_163.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_100_199/LeetCode_163.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/util/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/util/NodeWithRandomPtr.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +111,7 @@
       <workItem from="1587717787978" duration="1407000" />
       <workItem from="1588035181967" duration="1953000" />
       <workItem from="1588040405968" duration="1107000" />
-      <workItem from="1588042320403" duration="1998000" />
+      <workItem from="1588042320403" duration="4442000" />
     </task>
     <servers />
   </component>
@@ -120,6 +135,10 @@
       <screen x="0" y="0" width="1440" height="842" />
     </state>
     <state x="531" y="291" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1440.842@0.0.1440.842" timestamp="1586965593289" />
+    <state x="141" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588130505536">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="141" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1588130505536" />
     <state width="1440" height="244" key="GridCell.Tab.0.bottom" timestamp="1587344204023">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -140,15 +159,15 @@
     </state>
     <state width="1440" height="244" key="GridCell.Tab.0.right/0.0.1440.842@0.0.1440.842" timestamp="1587342711171" />
     <state width="1440" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587344204023" />
-    <state x="221" y="71" key="SettingsEditor" timestamp="1588052781838">
-      <screen x="0" y="0" width="1440" height="842" />
+    <state x="221" y="76" key="SettingsEditor" timestamp="1588131584626">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="71" key="SettingsEditor/0.0.1440.842@0.0.1440.842" timestamp="1588052781838" />
-    <state x="221" y="76" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1587610973913" />
-    <state x="100" y="100" width="1240" height="642" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1588052782203">
+    <state x="221" y="76" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1588131584626" />
+    <state x="100" y="100" width="1240" height="642" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1588053124004">
       <screen x="0" y="0" width="1440" height="842" />
     </state>
-    <state x="100" y="100" width="1240" height="642" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.842@0.0.1440.842" timestamp="1588052782203" />
+    <state x="100" y="100" width="1240" height="642" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.842@0.0.1440.842" timestamp="1588053124004" />
     <state x="397" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1588035182321">
       <screen x="0" y="0" width="1440" height="842" />
     </state>
