@@ -2,20 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c2be5b8-0f5e-494a-a6c5-51e30b7a7b85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_100_199/LeetCode_146.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_100_199/LeetCode_170.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_100_199/LeetCode_186.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_200_299/LeetCode_243.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_200_299/LeetCode_244.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_30DayLeetCodeChallange/FirstUniqueNumberInDataStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/util/DLLNodeWithKeyVal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/util/NodeDLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_1051.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_1160.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_925.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_300_399/LeetCode_374.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/_100_199/LeetCode_138.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_100_199/LeetCode_138.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/_100_199/LeetCode_163.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_100_199/LeetCode_163.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/util/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/util/NodeWithRandomPtr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_347.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_300_399/LeetCode_347.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_350.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_300_399/LeetCode_350.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_384.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_300_399/LeetCode_384.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_402.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_400_499/LeetCode_402.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_448.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_400_499/LeetCode_448.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_482.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_400_499/LeetCode_482.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_485.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_400_499/LeetCode_485.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_487.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_400_499/LeetCode_487.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_678.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_600_699/LeetCode_678.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/practice/LeetCode_692.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/practice/_600_699/LeetCode_692.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_1192.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_1192.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_1268.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_1268.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_200.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_226.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_286.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_33.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_347.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_350.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_482.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_64.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_692.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_763.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_763.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_904.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_904.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_929.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_929.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_937.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_937.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_994.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/coding/practice/LeetCode_994.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/coding/practice/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/util/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/coding/practice/util/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/coding/practice/util/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/coding/practice/util/TreeNode.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +67,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -111,7 +140,10 @@
       <workItem from="1587717787978" duration="1407000" />
       <workItem from="1588035181967" duration="1953000" />
       <workItem from="1588040405968" duration="1107000" />
-      <workItem from="1588042320403" duration="4442000" />
+      <workItem from="1588042320403" duration="6453000" />
+      <workItem from="1588158278396" duration="49000" />
+      <workItem from="1588209539922" duration="1693000" />
+      <workItem from="1588395259266" duration="309000" />
     </task>
     <servers />
   </component>
@@ -177,6 +209,10 @@
       <screen x="0" y="0" width="1440" height="842" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="dock-window-1/0.0.1440.842@0.0.1440.842" timestamp="1587208555884" />
+    <state x="88" y="113" key="new project wizard" timestamp="1588138539660">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="88" y="113" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1588138539660" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1587207816435">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
